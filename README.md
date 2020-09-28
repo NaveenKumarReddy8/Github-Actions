@@ -1,5 +1,5 @@
 # Github-Actions
 
-![Simple Workflow](https://github.com/NaveenKumarReddy8/Github-Actions/workflows/Simple%20Workflow/badge.svg?branch=master)
+[![Actions Status](https://github.com/NaveenKumaReddy8/Github-Actions/workflows/badge.svg)](https://github.com/NaveenKumaReddy8/Github-Actions/actions)
 
 Try out Github Actions
